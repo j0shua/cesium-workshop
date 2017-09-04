@@ -1,0 +1,9 @@
+I read through the workshop from: https://cesiumjs.org/tutorials/Cesium-Workshop which is where this repo is from.
+
+while we were on the phone i made a polygon in geojson on the geojson.io site
+then i exported that and stripped the file in Source/SampleData/sampleNeighborhoods.geojson and insterted my polygon 
+and then i updated App.js line 130 to use that file instead of the real neighborhood polygons.
+
+in regards to putting points of interest on the map that is being done via a 'klm' file (sampleGeocacheLocations.klm)
+to experiment with that i took their sample and created joshGeocacheLocations.kml and stripped all the points except 3 (union square, columbus circle, times square)
+

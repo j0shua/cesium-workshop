@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns:kml="http://earth.google.com/kml/2.2">
+  <Document id="featureCollection">
+<Style id="defaultStyle">
+  <LineStyle>
+    <width>1.5</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7d8a30c4</color>
+  </PolyStyle>
+</Style>
+  <Folder>
+    <Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Union Square</name>
+      <ExtendedData>
+        <Data name="annoline2a"><value>Square</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline3"><value></value></Data><Data name="objectid"><value>24</value></Data><Data name="angle"><value>0</value></Data><Data name="borough"><value>Manhattan</value></Data><Data name="id"><value>89</value></Data><Data name="annoline4"><value></value></Data><Data name="annoline1"><value>Union</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.99038010031393,40.73595972106511
+    </coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Columbus Circle</name>
+      <ExtendedData>
+        <Data name="annoline2a"><value>Circle</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline3"><value></value></Data><Data name="objectid"><value>21</value></Data><Data name="angle"><value>0</value></Data><Data name="borough"><value>Manhattan</value></Data><Data name="id"><value>18</value></Data><Data name="annoline4"><value></value></Data><Data name="annoline1"><value>Columbus</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98190208354553,40.76806052553004
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      <name>Times Square</name>
+      <ExtendedData>
+        <Data name="annoline2a"><value>Square</value></Data><Data name="stacked"><value>2</value></Data><Data name="annoline3"><value></value></Data><Data name="objectid"><value>22</value></Data><Data name="angle"><value>0</value></Data><Data name="borough"><value>Manhattan</value></Data><Data name="id"><value>88</value></Data><Data name="annoline4"><value></value></Data><Data name="annoline1"><value>Times</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -73.98179379395485,40.75802130316951
+    </coordinates></Point>
+    </Placemark>
+   </Folder>  </Document>
+  </kml>
